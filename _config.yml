@@ -1,1 +1,9 @@
 remote_theme: eliottvincent/bay
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Books  # <-- books.md
+    - name: Project  # <-- project.md
+
